@@ -1,0 +1,102 @@
+﻿{
+    "TAB 1":  {
+                 "Color":  "SkyBlue",
+                 "denyNotes":  [
+                                   "NOTE ",
+                                   "NOTE ",
+                                   "NOTE ",
+                                   "NOTE ",
+                                   "NOTE ",
+                                   "NOTE ",
+                                   "NOTE "
+                               ],
+                 "approvedNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                                   ]
+             },
+    "TAB 2":  {
+                 "Color":  "Gold",
+                 "denyNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                               ],
+                 "approvedNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                                   ]
+             },
+    "TAB 3":  {
+                 "Color":  "Gold",
+                 "denyNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                               ],
+                 "approvedNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                                   ]
+             },
+    "TAB 4":  {
+                "Color":  "Gold",
+                "denyNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                              ],
+                "approvedNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                                  ]
+            },
+    "TAB 5":  {
+                 "Color":  "GreenYellow",
+                 "denyNotes":  [
+
+                               ],
+                 "approvedNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                                   ]
+             },
+    "TAB 6":  {
+                 "Color":  "MediumAquamarine",
+                 "denyNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                               ],
+                 "approvedNotes":  [
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE ",
+					"NOTE "
+                                   ]
+             }
+}
